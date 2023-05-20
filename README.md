@@ -8,7 +8,7 @@ def analyze_journal_entry(entry):
     prompt = f"Analyzing common themes in the journal entry:\n{entry}\n\nThemes:"
 
     # Set up OpenAI API credentials
-    openai.api_key = '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'  # Replace with your OpenAI API key
+    openai.api_key = # Replace with your OpenAI API key
 
     # Generate response using ChatGPT
     response = openai.Completion.create(
