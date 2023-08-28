@@ -1,3 +1,5 @@
+Northwestern University - Master of Data Science Capstone Project
+
 Abstract: 
 Journaling has been recognized as a time tested, effective tool for personal growth, self-reflection, and mental well-being for millennia. However, a challenge many individuals face when journaling is the lack of guidance and actionable feedback on their entries. To address this issue, I developed Journal Buddy, a powerful tool that utilizes OpenAI API capability to provide users with insightful feedback on their journal entries. By leveraging the capabilities of artificial intelligence Journal Buddy shows promise in its ability to enhance the journaling experience, helping users gain deeper insights into their thinking, thought patterns and emotions. 
  
