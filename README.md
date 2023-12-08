@@ -7,3 +7,5 @@ Introduction:
 This paper introduces Journal Buddy, a Python-based tool utilizing OpenAI API capability to provide users with actionable feedback on their journal entries. Journaling is a widely recognized practice for personal reflection and self-improvement, and Journal Buddy aims to enhance this process by leveraging the power of artificial intelligence. This project was conceived as a solution to a problem raised by my sister.  The problem being that although a journal contains your inner most thoughts and true feelings, it is never seen by anyone but the pages it is written upon.  By analyzing the content, emotion, and language of journal entries, Journal Buddy offers users valuable insights and suggestions for personal growth. This paper explores the development process of Journal Buddy, its key features, and its potential impact on the field of self-reflection and mental well-being. 
 
 !!!!JOURNAL BUDDY IS NOT AND DOES NOT CLAIM TO BE A REPLACEMENT FOR A LICENSED MENTAL HEALTH PROFESSIONAL!!!!
+
+TRY JOURNAL BUDDY HERE: https://chat.openai.com/g/g-Z1wv8Hojg-journal-buddy
