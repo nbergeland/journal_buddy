@@ -4,7 +4,7 @@ This document provides a comprehensive introduction to the Journal Buddy system,
 ## System Purpose
 Journal Buddy addresses the challenge of obtaining meaningful feedback on personal journal entries by implementing automated analysis of content, emotion, and language patterns. Unlike traditional journaling where entries remain unexamined, Journal Buddy provides AI-powered insights that enhance self-reflection.
 
-As explicitly noted in the system documentation, Journal Buddy is **not** intended to replace professional mental health services but rather to complement them.
+As explicitly noted in the system documentation, Journal Buddy is ***not*** intended to replace professional mental health services but rather to complement them.
 
 ## System Architecture Diagram
 ![image](SAD.png)
