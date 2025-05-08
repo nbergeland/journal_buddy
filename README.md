@@ -1,5 +1,5 @@
 # Journal Buddy Overview
-This document provides a comprehensive introduction to the Journal Buddy system, a Python-based tool that leverages the OpenAI API to analyze journal entries and provide users with actionable feedback for self-reflection and personal growth.
+This document provides a comprehensive introduction to the Journal Buddy system, a Python-based tool that leverages Large Language Models (LLM) through the OpenAI API to analyze journal entries and provide users with actionable feedback for self-reflection and personal growth.
 
 ## System Purpose
 Journal Buddy addresses the challenge of obtaining meaningful feedback on personal journal entries by implementing automated analysis of content, emotion, and language patterns. Unlike traditional journaling where entries remain unexamined, Journal Buddy provides AI-powered insights that enhance self-reflection.
